@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536078150928",
+    "project_id": "bankinghive-38e3c",
+    "storage_bucket": "bankinghive-38e3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536078150928:android:e9b13d5aad46b063394995",
+        "android_client_info": {
+          "package_name": "com.example.banking_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536078150928-caj5o411mn8ge8qrfuhmpnenkuh1fmhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3LYXAMYR9RQO5ObGDYUC_6t92HMExYi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536078150928-caj5o411mn8ge8qrfuhmpnenkuh1fmhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
